@@ -1,3 +1,5 @@
+import "./styles/index.scss"
+
 const aztecSoup = {
     tomatos: 8,
     onions: 6,
