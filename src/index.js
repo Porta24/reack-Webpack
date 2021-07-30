@@ -9,4 +9,11 @@ const aztecSoup = {
     cheese: 2,
 }
 
+const aztecSpicySoup = {
+    ...aztecSoup,
+    spicy: 2,
+    garlic: 8,
+}
+
 console.log(aztecSoup);
+console.log(aztecSpicySoup);
